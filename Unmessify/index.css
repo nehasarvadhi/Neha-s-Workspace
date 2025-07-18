@@ -825,6 +825,11 @@ body {
     }
 
     .icon {
+        position: absolute;
+        padding-right: 10px;
+        right: 0;
+        margin: auto;
+        padding-top: 20px;
         display: flex;
     }
 }
